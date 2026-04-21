@@ -5,7 +5,7 @@ Tuteur Mouhamed Moustapha Diouf
 ---
 
 ### 📸 Aperçu de l’application 
-Regarder l'image Présentation-application.png qui se trouve dans le dossier docs.
+Regarder l'image aperçu-application.png qui se trouve dans le dossier docs.
 
 L’application affiche la liste des livres sous forme de tableau avec :
 - Titre
@@ -17,7 +17,7 @@ L’application affiche la liste des livres sous forme de tableau avec :
 ---
 
 ### 📖 Détail d’un livre (Modal)
-Regarder l'image vue-voir-livre.png qui se trouve dans le dossier docs.
+Regarder l'image aperçu-voir-livre.png qui se trouve dans le dossier docs.
 
 Lorsqu’un utilisateur clique sur **"Voir"**, une fenêtre modale s’ouvre affichant :
 - La couverture du livre
@@ -26,7 +26,7 @@ Lorsqu’un utilisateur clique sur **"Voir"**, une fenêtre modale s’ouvre aff
 ---
 
 ### ✏️ Modification d’un livre
-Regarder l'image vue-modifier-livre.png qui se trouve dans le dossier docs.
+Regarder l'image aperçu-modifier-livre.png qui se trouve dans le dossier docs.
 
 Le bouton **"Modifier"** permet :
 - De charger les informations dans le formulaire
@@ -35,7 +35,7 @@ Le bouton **"Modifier"** permet :
 
 ---
 ### ➕ Ajout d’un livre
-Regarder l'image vue-ajouter-livre.png qui se trouve dans le dossier docs.
+Regarder l'image aperçu-ajouter-livre.png qui se trouve dans le dossier docs.
 
 L’utilisateur peut ajouter un nouveau livre via un formulaire dédié :
 
@@ -48,7 +48,7 @@ Cette fonctionnalité permet d’enrichir la bibliothèque en temps réel.
 ---
 
 ### 🔍 Recherche d'un livre
-Regarder l'image vue-rechercher-livre.png qui se trouve dans le dossier docs.
+Regarder l'image aperçu-rechercher-livre.png qui se trouve dans le dossier docs.
 
 L’application intègre une fonctionnalité de recherche dynamique :
 
