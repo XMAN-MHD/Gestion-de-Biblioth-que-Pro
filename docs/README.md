@@ -47,7 +47,7 @@ Cette fonctionnalité permet d’enrichir la bibliothèque en temps réel.
 
 ---
 
-### 🔍 Recherche de livre
+### 🔍 Recherche d'un livre
 Regarder l'image vue-rechercher-livre.png qui se trouve dans le dossier docs.
 
 L’application intègre une fonctionnalité de recherche dynamique :
