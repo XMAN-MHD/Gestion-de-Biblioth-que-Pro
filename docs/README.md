@@ -95,8 +95,8 @@ Ce projet permet d’évaluer la maîtrise des notions suivantes :
 --
 
 ### ⏱️ Durée estimée du projet
-
-2 semaines 
+2 semaines
+ 
 ---
 
 ### 🎯 Objectif final
