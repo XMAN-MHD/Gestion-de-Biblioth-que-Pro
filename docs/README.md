@@ -4,7 +4,7 @@ Tuteur Mouhamed Moustapha Diouf
 
 ---
 
-## 📸 Aperçu de l’application 
+### 📸 Aperçu de l’application 
 Regarder l'image Présentation-application.png qui se trouve dans le dossier docs.
 
 L’application affiche la liste des livres sous forme de tableau avec :
