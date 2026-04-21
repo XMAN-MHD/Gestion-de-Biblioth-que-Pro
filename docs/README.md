@@ -92,7 +92,7 @@ Ce projet permet d’évaluer la maîtrise des notions suivantes :
 - Logique CRUD (Create, Read, Update, Delete)
 - Gestion d’état côté client
 
---
+---
 
 ### ⏱️ Durée estimée du projet
 2 semaines
