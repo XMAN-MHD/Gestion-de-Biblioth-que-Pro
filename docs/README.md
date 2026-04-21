@@ -92,38 +92,11 @@ Ce projet permet d’évaluer la maîtrise des notions suivantes :
 - Logique CRUD (Create, Read, Update, Delete)
 - Gestion d’état côté client
 
----
-
-## 🚀 Fonctionnalités principales
-
-### 📖 Affichage des livres
-Les livres sont chargés depuis un fichier XML et affichés dans un tableau dynamique.
-
-### ➕ Ajout de livre
-Un formulaire permet d’ajouter un nouveau livre avec :
-- Titre
-- Auteur
-- Année
-- Prix
-- Image de couverture
-
-### ✏️ Modification
-Chaque livre peut être modifié via un bouton dédié.
-
-### ❌ Suppression
-Suppression instantanée d’un livre dans la liste.
-
-### 🔍 Recherche
-Recherche dynamique par titre.
-
-### 👁️ Détail (Modal)
-Affichage d’une fiche détaillée style e-commerce.
-
----
+--
 
 ## ⏱️ Durée estimée du projet
 
-2 semaine de travail étudiant
+2 semaines de travail étudiant
 
 ---
 
