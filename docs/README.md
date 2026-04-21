@@ -1,9 +1,11 @@
+## 👨‍🏫 Auteur du projet pédagogique
+
+Tuteur Mouhamed Moustapha Diouf
+
 ---
 
-## 📸 Aperçu de l’application
-
-### 🖥️ Vue générale (Dashboard)
-![Overview](./overview.png)
+## 📸 Aperçu de l’application 
+Regarder l'image Présentation-application.png qui se trouve dans le dossier docs.
 
 L’application affiche la liste des livres sous forme de tableau avec :
 - Titre
@@ -15,22 +17,57 @@ L’application affiche la liste des livres sous forme de tableau avec :
 ---
 
 ### 📖 Détail d’un livre (Modal)
-![Single Book View](./single-book-view.png)
+Regarder l'image vue-voir-livre.png qui se trouve dans le dossier docs.
 
 Lorsqu’un utilisateur clique sur **"Voir"**, une fenêtre modale s’ouvre affichant :
 - La couverture du livre
 - Les informations complètes
-- Une interface type fiche produit (style e-commerce)
 
 ---
 
 ### ✏️ Modification d’un livre
-![Update Book View](./update-book-view.png)
+Regarder l'image vue-modifier-livre.png qui se trouve dans le dossier docs.
 
 Le bouton **"Modifier"** permet :
 - De charger les informations dans le formulaire
 - De modifier les données existantes
 - De sauvegarder les changements dynamiquement
+
+---
+### ➕ Ajout d’un livre
+Regarder l'image vue-ajouter-livre.png qui se trouve dans le dossier docs.
+
+L’utilisateur peut ajouter un nouveau livre via un formulaire dédié :
+
+- Saisie du titre, auteur, année et prix
+- Ajout d’une URL pour la couverture du livre
+- Insertion dynamique dans le tableau sans rechargement de page
+
+Cette fonctionnalité permet d’enrichir la bibliothèque en temps réel.
+
+---
+
+### 🔍 Recherche de livre
+Regarder l'image vue-rechercher-livre.png qui se trouve dans le dossier docs.
+
+L’application intègre une fonctionnalité de recherche dynamique :
+
+- Filtrage en temps réel (keyup)
+- Recherche par titre
+- Mise à jour instantanée du tableau
+- Amélioration de l’expérience utilisateur
+
+---
+
+### ❌ Suppression d’un livre
+
+L’utilisateur peut supprimer un livre directement depuis le tableau :
+
+- Bouton "Supprimer" pour chaque ligne
+- Suppression instantanée du DOM
+- Mise à jour dynamique de la liste
+
+Cette fonctionnalité permet de gérer efficacement le contenu de la bibliothèque.
 
 ---
 
@@ -86,18 +123,12 @@ Affichage d’une fiche détaillée style e-commerce.
 
 ## ⏱️ Durée estimée du projet
 
-- 10 à 14 jours de travail étudiant
+2 semaine de travail étudiant
 
 ---
 
 ## 🎯 Objectif final
 
 Permettre à l’étudiant de développer une application complète en JavaScript pur, en simulant un système de gestion de bibliothèque interactif avec interface moderne.
-
----
-
-## 👨‍🏫 Auteur du projet pédagogique
-
-Tuteur Mouhamed Moustapha Diouf
 
 ---
