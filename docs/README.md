@@ -71,7 +71,7 @@ Cette fonctionnalité permet de gérer efficacement le contenu de la bibliothèq
 
 ---
 
-## ⚙️ Technologies utilisées
+### ⚙️ Technologies utilisées
 
 - HTML5
 - CSS3 (Responsive + UI moderne)
@@ -81,7 +81,7 @@ Cette fonctionnalité permet de gérer efficacement le contenu de la bibliothèq
 
 ---
 
-## 🧠 Concepts pédagogiques évalués
+### 🧠 Concepts pédagogiques évalués
 
 Ce projet permet d’évaluer la maîtrise des notions suivantes :
 
@@ -94,13 +94,12 @@ Ce projet permet d’évaluer la maîtrise des notions suivantes :
 
 --
 
-## ⏱️ Durée estimée du projet
+### ⏱️ Durée estimée du projet
 
-2 semaines de travail étudiant
-
+2 semaines 
 ---
 
-## 🎯 Objectif final
+### 🎯 Objectif final
 
 Permettre à l’étudiant de développer une application complète en JavaScript pur, en simulant un système de gestion de bibliothèque interactif avec interface moderne.
 
