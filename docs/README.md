@@ -1,4 +1,4 @@
-## 👨‍🏫 Auteur du projet pédagogique
+### 👨‍🏫 Auteur du projet pédagogique
 
 Tuteur Mouhamed Moustapha Diouf
 
